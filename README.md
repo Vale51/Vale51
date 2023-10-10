@@ -20,7 +20,8 @@
 - HTML
 - CSS
 - Diseño web
-- MongoDB
+- Tailwind
+- Sass
 - MySQL
 - PostgreSQL
 

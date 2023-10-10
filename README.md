@@ -10,4 +10,20 @@
 
 - [Rick And Morty](https://github.com/Vale51/Rick-And-Morty-): Este fue mi primer proyecto en SoyHenry. Aprendí el manejo de estados y acciones en Redux, e hice mi propio servidor con NodeJs. Experimenté con distintos estilos, transiciones y animaciones CSS, y encontré mi pasión por el Front End. 
 
-- [Videogames PI ](https://github.com/Vale51/Videogames-PI-Deploy): Mi proyecto individual para SoyHenry. En él implementé una función de búsqueda de videojuegos, paginado dinámico, una página de detalles y 
+- [Videogames PI ](https://github.com/Vale51/Videogames-PI-Deploy): Mi proyecto individual para SoyHenry. En él implementé una función de búsqueda de videojuegos, paginado dinámico, una página de detalles y eliminación de tarjetas. 
+
+## Tecnologías
+
+- React
+- Next.js
+- JavaScript
+- HTML
+- CSS
+- Diseño web
+- MongoDB
+- MySQL
+- PostgreSQL
+
+## Contacto 
+- LinkedIn: [Valentín Risatti](https://www.linkedin.com/in/valent%C3%ADn-risatti-84a20127a/)
+- Correo Electrónico: [risattivalentin@gmail.com](mailto:risattivalentin@gmail.com)
